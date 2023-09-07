@@ -1,5 +1,5 @@
 [package]
-name = "discoveryIBdevice"
+name = "discovery_ibdevice"
 version = "0.1.0"
 edition = "2021"
 
